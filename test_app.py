@@ -2,9 +2,7 @@
 test_app.py
 Manual/functional test cases for the Equipment & Maintenance Tracker.
 These cover normal operation and edge cases (invalid input, missing
-records, etc.) — the kind of testing described in Weeks 21 and 22.
-
-Run with: python test_app.py
+records, etc.)
 """
 
 import os
