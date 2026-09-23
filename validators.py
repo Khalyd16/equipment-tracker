@@ -2,7 +2,7 @@
 validators.py
 Small helper functions for validating user input before it reaches the
 database layer. Keeping these separate makes the code easier to read,
-test, and maintain (Week 19 goal: breaking the app into smaller functions).
+test, and maintain
 """
 
 VALID_STATUSES = {"Available", "In Use", "Under Maintenance", "Retired"}
